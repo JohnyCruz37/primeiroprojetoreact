@@ -1,0 +1,20 @@
+*{
+    font-family: cursive, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: #f7d354;
+    transition: .3s;
+}
+a:hover{
+    color: #B8930C;
+}
